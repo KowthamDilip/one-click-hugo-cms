@@ -3,7 +3,7 @@ title: Mihai
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
-    imageUrl: /img/0bf5836351ff27a784be3f84db3f6539.png
+    imageUrl: /img/image.jpg
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
